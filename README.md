@@ -3,7 +3,7 @@
 ## Gráficos
 
 
-![Preview](graphs/geohd.png)
+![Preview](graphs/geohd.jpeg)
 ![Preview](graphs/timetable.jpeg)
 ![Preview](graphs/scatter.png)
 ![Preview](graphs/potprob.png)
